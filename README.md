@@ -190,7 +190,11 @@ DriveMe achieved
 
 ---
 
+## ⚠️ Important Note
 
+The code was originally implemented using the author's local directory structure. Before running the project, please replace all hard-coded file and folder paths (e.g., `D:\...`) with the corresponding paths on your own computer. This includes dataset locations, model output directories, and result-saving paths.
+
+---
 
 # 🚀 Getting Started
 
