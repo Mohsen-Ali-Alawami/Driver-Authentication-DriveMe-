@@ -47,7 +47,7 @@ Extensive real-world experiments involving 12 participants demonstrate that Driv
 # 🏗 System Architecture
 
 <p align="center">
-<img src="Figures/System_Architecture.png" width="900">
+<img src="Figures/System_Architecture.pdf" width="900">
 </p>
 
 The DriveMe pipeline consists of four major stages:
@@ -57,6 +57,12 @@ The DriveMe pipeline consists of four major stages:
 3. One-class driver model learning
 4. Driver authentication
 
+
+<p align="center">
+<img src="Figures/development_environment.pdf" width="900">
+</p>
+
+Steps show how the development environment of our system was built.
 ---
 
 # 📂 Repository Structure
