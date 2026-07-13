@@ -118,6 +118,22 @@ Total:
 - 30 pressure sensors
 
 ---
+# 📷 Example Dataset Collection and Pressure Visualization
+
+<p align="center">
+<img src="Figures/data_collection.png" width="800">
+</p>
+
+
+
+# 📉 
+
+<p align="center">
+<img src="Figures/Data_visualization.png" width="700">
+</p>
+
+---
+
 
 # ⚙️ Experimental Settings
 
@@ -177,21 +193,7 @@ DriveMe achieved
 
 ---
 
-# 📷 Example Dataset
 
-<p align="center">
-<img src="Figures/Dataset.png" width="800">
-</p>
-
----
-
-# 📉 Pressure Visualization
-
-<p align="center">
-<img src="Figures/Visualization.png" width="700">
-</p>
-
----
 
 # 🚀 Getting Started
 
