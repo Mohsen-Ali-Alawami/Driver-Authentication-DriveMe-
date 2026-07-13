@@ -149,8 +149,22 @@ Training ratios
 ## Overall Authentication Performance
 
 <p align="center">
-<img src="Figures/Overall_Result.png" width="900">
+<img src="Figures/Overall_OCSVM.png" width="900">
 </p>
+
+<p align="center">
+<img src="Figures/Overall_LOF.png" width="900">
+</p>
+
+<p align="center">
+<img src="Figures/Overall_IF.png" width="900">
+</p>
+
+<p align="center">
+<img src="Figures/Overall_EE.png" width="900">
+</p>
+
+
 
 DriveMe achieved
 
