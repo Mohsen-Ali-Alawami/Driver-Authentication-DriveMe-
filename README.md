@@ -125,9 +125,6 @@ Total:
 </p>
 
 
-
-# 📉 
-
 <p align="center">
 <img src="Figures/Data_visualization.png" width="700">
 </p>
