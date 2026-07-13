@@ -62,7 +62,7 @@ The DriveMe pipeline consists of four major stages:
 <img src="Figures/development_environment.pdf" width="900">
 </p>
 
-Steps show how the development environment of our system was built.
+The steps show how the development environment of our system was built.
 ---
 
 # 📂 Repository Structure
